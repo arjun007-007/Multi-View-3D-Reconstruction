@@ -41,7 +41,7 @@ This repository demonstrates how to reconstruct a 3D point cloud from multiple 2
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/USER_NAME/MultiView-3D-Reconstruction.git
+   git clone https://github.com/arjun007-007/Multi-View-3D-Reconstruction.git
    cd MultiView-3D-Reconstruction
    ```
 
